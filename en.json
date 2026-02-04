@@ -24,5 +24,7 @@
     "CONTENT00023": "System",
     "CONTENT00024": "Security",
     "CONTENT00025": "Phone",
-    "CONTENT00026": "Email"
+    "CONTENT00026": "Email",
+    "CONTENT10001": "username",
+    "CONTENT10002": "Password"
 }
